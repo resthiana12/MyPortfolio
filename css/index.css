@@ -1,0 +1,81 @@
+html{
+	position: relative;
+}
+
+body{
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+.first {
+	background-color: #f0f0f0;
+}
+
+.jumbotron {
+	background-image: url(../assets/img/moon.png);
+	color : #c5e1e8;
+	background-attachment: fixed;
+}
+
+.jumbotron h1 {
+	font-family: "Kaufmann BT";
+}
+
+.jumbotron p {
+	font-family: "Century Gothic";
+}
+
+
+hr {
+	width: 180px;
+	border-top: 3px solid black;
+}
+
+h2{
+	color: #0f253a;
+}
+
+section{
+	min-height: 600px;
+}
+
+.portfolio{
+	background-color: #82ace5;
+}
+
+footer{
+	position: absolute;
+	height: 100px;
+	width: 100%;
+	background-color: #0a303a;
+	bottom: 0;
+	padding-top: 25px;
+}
+
+.contact{
+	min-height: 800px;
+	background-color: #82ace5;
+}
+
+footer a{
+	color: white;
+}
+
+footer p {
+	font-size: 0.9em;
+	color: #82ace5;
+}
+
+footer #social p {
+	font-weight: bold;
+	font-family: "Tw Cen MT";
+}
+
+.skill{
+	min-height: 400px;
+}
+
+.skill h5{
+	text-align: left;
+	font-weight: bold;
+}
